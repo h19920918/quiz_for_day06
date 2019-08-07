@@ -8,4 +8,4 @@
    (See https://arxiv.org/abs/1809.01696 and https://arxiv.org/abs/1904.11574)  
 
 ### [Submission]
-* mshan92@kaist.ac.kr 으로 8/10까지 제출해주시면 됩니다.
+* mshan92@kaist.ac.kr 으로 8/14까지 제출해주시면 됩니다.

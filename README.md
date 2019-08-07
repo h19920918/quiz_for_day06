@@ -7,5 +7,5 @@
 2. What is the main difference between TVQA and TVQA+? (In terms of model) (2.5 points)  
    (See https://arxiv.org/abs/1809.01696 and https://arxiv.org/abs/1904.11574)  
 
-### [제출]
+### [Submission]
 * mshan92@kaist.ac.kr 으로 8/10까지 제출해주시면 됩니다.
